@@ -11,6 +11,7 @@
 		405B4CC22B9D52150076B963 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 405B4CC12B9D52150076B963 /* ContentView.swift */; };
 		405B4CC42B9D52160076B963 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 405B4CC32B9D52160076B963 /* Assets.xcassets */; };
 		405B4CC72B9D52160076B963 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 405B4CC62B9D52160076B963 /* Preview Assets.xcassets */; };
+		408917982BA17C83007833DE /* AdvancedGesturesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408917972BA17C83007833DE /* AdvancedGesturesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		405B4CC12B9D52150076B963 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		405B4CC32B9D52160076B963 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		405B4CC62B9D52160076B963 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		408917972BA17C83007833DE /* AdvancedGesturesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedGesturesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				405B4CBF2B9D52150076B963 /* Project17PlaygroundApp.swift */,
 				405B4CC12B9D52150076B963 /* ContentView.swift */,
+				408917972BA17C83007833DE /* AdvancedGesturesView.swift */,
 				405B4CC32B9D52160076B963 /* Assets.xcassets */,
 				405B4CC52B9D52160076B963 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				405B4CC22B9D52150076B963 /* ContentView.swift in Sources */,
 				405B4CC02B9D52150076B963 /* Project17PlaygroundApp.swift in Sources */,
+				408917982BA17C83007833DE /* AdvancedGesturesView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

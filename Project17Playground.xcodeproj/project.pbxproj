@@ -14,6 +14,7 @@
 		408917982BA17C83007833DE /* AdvancedGesturesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408917972BA17C83007833DE /* AdvancedGesturesView.swift */; };
 		4089179A2BB10EFB007833DE /* LayeredGestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408917992BB10EFB007833DE /* LayeredGestures.swift */; };
 		4089179C2BB1119F007833DE /* SequencedGestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4089179B2BB1119F007833DE /* SequencedGestures.swift */; };
+		4089179E2BB1126D007833DE /* HitTesting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4089179D2BB1126D007833DE /* HitTesting.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		408917972BA17C83007833DE /* AdvancedGesturesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedGesturesView.swift; sourceTree = "<group>"; };
 		408917992BB10EFB007833DE /* LayeredGestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayeredGestures.swift; sourceTree = "<group>"; };
 		4089179B2BB1119F007833DE /* SequencedGestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SequencedGestures.swift; sourceTree = "<group>"; };
+		4089179D2BB1126D007833DE /* HitTesting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HitTesting.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				405B4CC32B9D52160076B963 /* Assets.xcassets */,
 				405B4CC52B9D52160076B963 /* Preview Content */,
 				4089179B2BB1119F007833DE /* SequencedGestures.swift */,
+				4089179D2BB1126D007833DE /* HitTesting.swift */,
 			);
 			path = Project17Playground;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4089179E2BB1126D007833DE /* HitTesting.swift in Sources */,
 				4089179A2BB10EFB007833DE /* LayeredGestures.swift in Sources */,
 				405B4CC22B9D52150076B963 /* ContentView.swift in Sources */,
 				405B4CC02B9D52150076B963 /* Project17PlaygroundApp.swift in Sources */,

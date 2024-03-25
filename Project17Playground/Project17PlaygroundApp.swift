@@ -11,7 +11,10 @@ import SwiftUI
 struct Project17PlaygroundApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+//            AdvancedGesturesView()
+//            LayeredGestures()
+            SequencedGestures()     
         }
     }
 }

@@ -10,22 +10,22 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack{
-            Text("Hello, World!")
+            Text("Double Tap!")
                 .onTapGesture(count: 2) {
                     print("Double tapped!")
                 }
-            Text("Hello, World!")
+            Text("Normal Long Press!")
                 .onLongPressGesture {
                     print("Long pressed!")
                 }
-            Text("Hello, World!")
+            Text("4s long press!")
                 .onLongPressGesture(minimumDuration: 4) {
                     print("Long pressed!")
                 }
             
             
 //  You can even add a second closure that triggers whenever the state of the gesture has changed. This will be given a single Boolean parameter as input
-            Text("Hello, World!")
+            Text("On press closures!")
                 .onLongPressGesture(minimumDuration: 1) {
                     print("Long pressed!")
                 } onPressingChanged: { inProgress in

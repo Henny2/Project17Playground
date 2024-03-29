@@ -15,6 +15,7 @@
 		4089179A2BB10EFB007833DE /* LayeredGestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408917992BB10EFB007833DE /* LayeredGestures.swift */; };
 		4089179C2BB1119F007833DE /* SequencedGestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4089179B2BB1119F007833DE /* SequencedGestures.swift */; };
 		4089179E2BB1126D007833DE /* HitTesting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4089179D2BB1126D007833DE /* HitTesting.swift */; };
+		408917A02BB674C0007833DE /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4089179F2BB674C0007833DE /* TimerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		408917992BB10EFB007833DE /* LayeredGestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayeredGestures.swift; sourceTree = "<group>"; };
 		4089179B2BB1119F007833DE /* SequencedGestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SequencedGestures.swift; sourceTree = "<group>"; };
 		4089179D2BB1126D007833DE /* HitTesting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HitTesting.swift; sourceTree = "<group>"; };
+		4089179F2BB674C0007833DE /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +45,7 @@
 		405B4CB32B9D52150076B963 = {
 			isa = PBXGroup;
 			children = (
+				4089179F2BB674C0007833DE /* TimerView.swift */,
 				405B4CBE2B9D52150076B963 /* Project17Playground */,
 				405B4CBD2B9D52150076B963 /* Products */,
 			);
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				408917A02BB674C0007833DE /* TimerView.swift in Sources */,
 				4089179E2BB1126D007833DE /* HitTesting.swift in Sources */,
 				4089179A2BB10EFB007833DE /* LayeredGestures.swift in Sources */,
 				405B4CC22B9D52150076B963 /* ContentView.swift in Sources */,

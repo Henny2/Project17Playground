@@ -15,7 +15,8 @@ struct Project17PlaygroundApp: App {
 //            AdvancedGesturesView()
 //            LayeredGestures()
 //            SequencedGestures()   
-            HitTesting()
+//            HitTesting()
+            TimerView()
         }
     }
 }

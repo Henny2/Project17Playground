@@ -17,7 +17,8 @@ struct Project17PlaygroundApp: App {
 //            SequencedGestures()   
 //            HitTesting()
 //            TimerView()
-            BackgroundApp()
+//            BackgroundApp()
+            AccessibilityVariables()
         }
     }
 }

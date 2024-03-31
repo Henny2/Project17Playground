@@ -17,6 +17,7 @@
 		4089179E2BB1126D007833DE /* HitTesting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4089179D2BB1126D007833DE /* HitTesting.swift */; };
 		408917A02BB674C0007833DE /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4089179F2BB674C0007833DE /* TimerView.swift */; };
 		408917A22BB6763B007833DE /* BackgroundApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408917A12BB6763B007833DE /* BackgroundApp.swift */; };
+		408917A42BB8F892007833DE /* AccessibilityVariables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408917A32BB8F891007833DE /* AccessibilityVariables.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		4089179D2BB1126D007833DE /* HitTesting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HitTesting.swift; sourceTree = "<group>"; };
 		4089179F2BB674C0007833DE /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
 		408917A12BB6763B007833DE /* BackgroundApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundApp.swift; sourceTree = "<group>"; };
+		408917A32BB8F891007833DE /* AccessibilityVariables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityVariables.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		405B4CBE2B9D52150076B963 /* Project17Playground */ = {
 			isa = PBXGroup;
 			children = (
+				408917A32BB8F891007833DE /* AccessibilityVariables.swift */,
 				405B4CBF2B9D52150076B963 /* Project17PlaygroundApp.swift */,
 				408917A12BB6763B007833DE /* BackgroundApp.swift */,
 				4089179F2BB674C0007833DE /* TimerView.swift */,
@@ -160,6 +163,7 @@
 				4089179A2BB10EFB007833DE /* LayeredGestures.swift in Sources */,
 				405B4CC22B9D52150076B963 /* ContentView.swift in Sources */,
 				405B4CC02B9D52150076B963 /* Project17PlaygroundApp.swift in Sources */,
+				408917A42BB8F892007833DE /* AccessibilityVariables.swift in Sources */,
 				408917982BA17C83007833DE /* AdvancedGesturesView.swift in Sources */,
 				4089179C2BB1119F007833DE /* SequencedGestures.swift in Sources */,
 				408917A22BB6763B007833DE /* BackgroundApp.swift in Sources */,
